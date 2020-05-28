@@ -32,3 +32,9 @@ Using twitter Ads to tweet a tweet that's not publicly visible but still functio
 ## narrowcast
 
 Either using the new feature to restrict who can reply to a tweet thread, or it's something else Twitter Ads related i dont know about?
+
+## ratio
+
+When the replies to a tweet far outweigh the retweets or likes, usually because of a controversial opinion or statement.
+
+## 
