@@ -21,6 +21,8 @@ Mentioning or replying to a subtweet with the thing being talked about.
 
 ## shadowban
 
+Having your account or tweets hidden but not in an obvious way, eg: getting excluded from search, recommendations, replies or eslewhere because of spam or abuse.
+
 ## fandom
 
 ## stans
