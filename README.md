@@ -56,3 +56,7 @@ Hoping to win favour with someone by appearing to be overly suppportive. Usually
 ## stan
 
 Fanatically idolizing a celebrity or group of some sort. Or maybe more like: When you simp for famous peope.
+
+## hateread
+
+Linking to an article you strongly disagree with so you can share your disagreement and revel in other people's similar reactions.
