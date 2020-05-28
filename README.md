@@ -3,30 +3,22 @@ A glossary of Twitter specific terminology. Prompted by this [tweet](https://twi
 
 Theres a glossary on Twitter, and a bunch of others aimed at marketing people but all those are boring so i might leave out / link to all the ones already defined there: https://help.twitter.com/en/glossary
 
-## tweet
-
-## mention
-
-## thread
-
-## reply
-
-## retweet
-
-## hashtag
-
-## cashtag
-
 ## hashflag
 
-## quote tweet aka Retweet with commment
+## dunk aka quote tweet aka Retweet with commment
 
-## dunk
-
-## snitchtag
+## sealion
 
 ## subtweet
 
+## snitchtag
+
 ## shadowban
 
-## 
+## fandom
+
+## stans
+
+## nullcast
+
+## narrowcast
