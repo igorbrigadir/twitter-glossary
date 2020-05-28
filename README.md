@@ -13,6 +13,8 @@ A hashtag that gets a small image or emoji appended to it. See <https://wongmjan
 
 ## subtweet
 
+Tweeting about something or someone without explicitly mentioning it (article, username, fandom etc).
+
 ## snitchtag
 
 ## shadowban
