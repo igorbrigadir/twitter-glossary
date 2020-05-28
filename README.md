@@ -17,6 +17,8 @@ Tweeting about something or someone without explicitly mentioning it (article, u
 
 ## snitchtag
 
+Mentioning or replying to a subtweet with the thing being talked about.
+
 ## shadowban
 
 ## fandom
