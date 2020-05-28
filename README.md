@@ -37,4 +37,8 @@ Either using the new feature to restrict who can reply to a tweet thread, or it'
 
 When the replies to a tweet far outweigh the retweets or likes, usually because of a controversial opinion or statement.
 
+## replyguy
+
+Someone who replies to your tweets, usually used to describe unwanted replies or excessive or fanatical replying behaviour.
+
 ## 
