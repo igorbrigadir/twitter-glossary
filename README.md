@@ -29,6 +29,8 @@ Having your account or tweets hidden but not in an obvious way, eg: getting excl
 
 ## stans
 
+Groups of twitter accounts dedicated to a specific celebrity or group or genre. Eg: k-pop stans, Ariana stans etc.
+
 ## nullcast
 
 Using twitter Ads to tweet a tweet that's not publicly visible but still functional.
