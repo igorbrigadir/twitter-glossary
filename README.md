@@ -49,4 +49,10 @@ Someone who replies to your tweets, usually used to describe unwanted replies or
 
 Usually as a hashtag and with a name, whenever something about someone is revealed that's potentially career damaging.
 
-## 
+## simp / simping
+
+Hoping to win favour with someone by appearing to be overly suppportive. Usually aimed at replyguys.
+
+## stan
+
+Fanatically idolizing a celebrity or group of some sort. Or maybe more like: When you simp for famous peope.
