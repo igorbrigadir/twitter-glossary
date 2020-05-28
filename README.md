@@ -27,4 +27,8 @@ Mentioning or replying to a subtweet with the thing being talked about.
 
 ## nullcast
 
+Using twitter Ads to tweet a tweet that's not publicly visible but still functional.
+
 ## narrowcast
+
+Either using the new feature to restrict who can reply to a tweet thread, or it's something else Twitter Ads related i dont know about?
