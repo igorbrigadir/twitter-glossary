@@ -43,4 +43,8 @@ When the replies to a tweet far outweigh the retweets or likes, usually because 
 
 Someone who replies to your tweets, usually used to describe unwanted replies or excessive or fanatical replying behaviour.
 
+## ___ is over party
+
+Usually as a hashtag and with a name, whenever something about someone is revealed that's potentially career damaging.
+
 ## 
