@@ -27,9 +27,15 @@ Having your account or tweets hidden but not in an obvious way, eg: getting excl
 
 ## fandom
 
+Collective community of people into something - usually have a mix of stans and normies.
+
 ## stans
 
 Groups of twitter accounts dedicated to a specific celebrity or group or genre. Eg: k-pop stans, Ariana stans etc.
+
+## normie
+
+So called "Normal" people on twitter - usually aimed at professional accounts, brands, or accounts that seem unaware of what's going on or avoid extremes.
 
 ## nullcast
 
