@@ -13,6 +13,10 @@ A hashtag that gets a small image or emoji appended to it. See <https://wongmjan
 
 Asking for clarification, sources, etc in bad faith, not to accept new information but to draw out and waste time or effort, or to provoke a reaction - basically this: <http://wondermark.com/1k62/>
 
+## dogpiling
+
+Telling someone that they are wrong and/or attacking them when many others did so already.
+
 ## subtweet
 
 Tweeting about something or someone without explicitly mentioning it (article, username, fandom etc).
