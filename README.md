@@ -8,6 +8,7 @@ Theres a glossary on Twitter, and a bunch of others aimed at marketing people bu
 A hashtag that gets a small image or emoji appended to it. See <https://wongmjane.com/hashflag-browser>
 
 ## dunk aka quote tweet aka Retweet with commment
+With a negative sentiment. 
 
 ## sealion
 
