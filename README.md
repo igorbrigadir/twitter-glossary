@@ -8,6 +8,7 @@ Theres a glossary on Twitter, and a bunch of others aimed at marketing people bu
 A hashtag that gets a small image or emoji appended to it. See <https://wongmjane.com/hashflag-browser>
 
 ## dunk aka quote tweet aka Retweet with commment
+
 With a negative sentiment. 
 
 ## sealion
@@ -73,3 +74,7 @@ Fanatically idolizing a celebrity or group of some sort. Or maybe more like: Whe
 ## hateread
 
 Linking to an article you strongly disagree with so you can share your disagreement and revel in other people's similar reactions.
+
+## doomscrolling / doomsurfing
+
+Reading bad news and not stopping.
