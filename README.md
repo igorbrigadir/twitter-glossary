@@ -9,6 +9,8 @@ A hashtag that gets a small image or emoji appended to it. See <https://wongmjan
 
 ## dunk aka quote tweet aka Retweet with commment
 
+With a negative sentiment. 
+
 ## sealion
 
 Asking for clarification, sources, etc in bad faith, not to accept new information but to draw out and waste time or effort, or to provoke a reaction - basically this: <http://wondermark.com/1k62/>
@@ -72,3 +74,7 @@ Fanatically idolizing a celebrity or group of some sort. Or maybe more like: Whe
 ## hateread
 
 Linking to an article you strongly disagree with so you can share your disagreement and revel in other people's similar reactions.
+
+## doomscrolling / doomsurfing
+
+Reading bad news and not stopping.
