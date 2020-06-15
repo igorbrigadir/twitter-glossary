@@ -47,7 +47,7 @@ Linking to an article you strongly disagree with so you can share your disagreem
 
 ### hopescrolling:
 
-Opposite of [doomscrolling](#doomscrolling-doomsurfing).
+Opposite of [doomscrolling](#doomscrolling--doomsurfing).
 
 ## I
 
