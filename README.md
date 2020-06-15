@@ -45,6 +45,10 @@ A hashtag that gets a small image or emoji appended to it. See <https://wongmjan
 ### hateread: 
 Linking to an article you strongly disagree with so you can share your disagreement and revel in other people's similar reactions.
 
+### hopescrolling:
+
+Opposite of [doomscrolling](#doomscrolling-doomsurfing).
+
 ## I
 
 ### ___ is over party: 
