@@ -8,6 +8,8 @@ Theres a glossary on Twitter, and a bunch of others aimed at marketing people bu
 
 ## A
 
+### avi:
+Avatar, profile picture. See Also [pfp](#pfps)
 
 ## B
 
@@ -82,6 +84,9 @@ Using twitter Ads to tweet a tweet that's not publicly visible but still functio
 
 ## P
 
+### pfps:
+
+Profile Pictures. Twitter [Avatars](#avi). Usually used as a plural, for describing collections or themed profile pics - like anime pfps, furry pfps etc.
 
 ## Q
 
