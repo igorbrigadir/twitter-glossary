@@ -36,6 +36,9 @@ Retweet with commment, but with a negative sentiment.
 ### fandom: 
 Collective community of people into something - usually have a mix of stans and normies.
 
+### fav shaming:
+Trawling through someone's likes (formerly known as Favourites) for any contentious tweets.
+
 ## G
 
 
