@@ -28,7 +28,7 @@ Telling someone that they are wrong and/or attacking them when many others did s
 Reading bad news and not stopping.
 
 ### down bad
-
+Being depressingly horny.
 
 ### dunk aka quote tweet:
 Retweet with commment, but with a negative sentiment.
