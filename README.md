@@ -70,6 +70,8 @@ Usually as a hashtag and with a name, whenever something about someone is reveal
 
 ## M
 
+### mutuals: 
+Accounts that follow each other. Often used when addressing the people one follows: "I am in town. Any mutuals want to meet?"
 
 ## N
 
