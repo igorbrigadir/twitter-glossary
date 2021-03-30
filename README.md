@@ -86,6 +86,8 @@ Using twitter Ads to tweet a tweet that's not publicly visible but still functio
 
 ## O
 
+### oomf:
+One Of My Followers. See also [mutuals](#mutuals).
 
 ## P
 
