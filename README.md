@@ -13,6 +13,9 @@ Avatar, profile picture. See Also [pfp](#pfps)
 
 ## B
 
+### bappin
+To be in high spirits, or a good mood.
+
 ### bonk
 commonly a shorthand reference to "bonk, go to horny jail" phrase associated with an image macro of a Doge hitting Cheems with a stick accompanied by Bonk! caption. See [here](https://knowyourmeme.com/memes/go-to-horny-jail)
 
