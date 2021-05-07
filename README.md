@@ -18,6 +18,8 @@ commonly a shorthand reference to "bonk, go to horny jail" phrase associated wit
 
 ## C
 
+### cheugy
+Coined by 23-year-old Beverly Hills student Gaby Rasson, imported into Twitter from Tik Tok, rougly meaning "Millennial girlboss aesthetic".
 
 ## D
 
