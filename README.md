@@ -3,6 +3,7 @@ A glossary of Twitter specific terminology. Prompted by this [tweet](https://twi
 
 Theres a glossary on Twitter, and a bunch of others aimed at marketing people but all those are boring so i might leave out / link to all the ones already defined there: https://help.twitter.com/en/glossary
 
+See also: [Twitter Canon](https://twitter.com/i/events/1347265541698945024) collection of tweets.
 
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 
