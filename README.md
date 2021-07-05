@@ -80,6 +80,12 @@ Usually as a hashtag and with a name, whenever something about someone is reveal
 
 ## M
 
+### main character
+A reference to @maplecocaine tweet: "Each day on twitter there is one main character. The goal is to never be it". When an account draws viral levels of criticism or praise.
+
+### milkshake duck
+A reference to @pixelatedboat tweet: "The whole internet loves Milkshake Duck, a lovely duck that drinks milkshakes! *5 seconds later* We regret to inform you the duck is racist". Used in cases where something goes viral but then it is discovered that there was something amiss.
+
 ### mutuals: 
 Accounts that follow each other. Often used when addressing the people one follows: "I am in town. Any mutuals want to meet?"
 
